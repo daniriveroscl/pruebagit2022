@@ -1,8 +1,6 @@
 
 ![cabecera.](cabecera.png)
 
-&nbsp;
-
 [Ciberseguridad &nbsp;&nbsp;&nbsp;>](https://www.bbva.es/finanzas-vistazo/ciberseguridad.html) &nbsp;&nbsp;&nbsp; [Ataques informáticos  &nbsp;&nbsp;&nbsp; >](https://www.bbva.es/finanzas-vistazo/ciberseguridad/ataques-informaticos.html) &nbsp;&nbsp;&nbsp;Tipos de malware y cómo puedes eliminarlos
 
 &nbsp;
