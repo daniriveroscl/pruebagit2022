@@ -1,6 +1,9 @@
 # [BBVA](https://www.bbva.es/personas.html)  
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [PERSONAS](https://www.bbva.es/personas.html) &nbsp; &nbsp; &nbsp; [AUTÓNOMOS Y EMPRESAS](https://www.bbva.es/empresas.html)
 ## 
+
+![cabecera.](cabecera.png)
+
 ![banner.](https://www.bbva.com/wp-content/uploads/2021/08/GettyImages-transferencias-internacionales-mapa-mundo-tierra-paises-economia-cib-finanzas-operaciones-1024x576.jpg)
 
 ## <center>Tipos de malware y cómo puedes eliminarlos</center>
@@ -18,11 +21,11 @@
 Indice                                                                                      __
 ______________________________________________________________________________________________
 
- _ ¿Cuáles son los principales objetivos que persiguen estos programas maliciosos?
+ - ¿Cuáles son los principales objetivos que persiguen estos programas maliciosos?
 
- _ ¿Cómo puedes proteger tu dispositivo del malware?
+ - ¿Cómo puedes proteger tu dispositivo del malware?
 
- _ Seguro BBVA Allianz Cyber
+ - Seguro BBVA Allianz Cyber
 ```
 
 ###### *02/11/2021*
