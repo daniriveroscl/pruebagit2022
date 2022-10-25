@@ -6,7 +6,7 @@
 &nbsp;
 
 ```
-Indice                                                                                                                        __
+ Indice                                                                                                                        __
 ________________________________________________________________________________________________________________________________
 
  - ¿Cuáles son los principales objetivos que persiguen estos programas maliciosos?
@@ -79,6 +79,8 @@ BBVA ayuda a sus clientes pymes y autónomos a proteger sus negocios de las cibe
 El seguro proporciona coberturas preventivas para incrementar la seguridad de la información de la empresa, así como asistencia legal, informática y de peritos informáticos en caso de pérdida o robo de datos y coberturas de daños propios como la pérdida de beneficios por paralización del negocio.  Además, presta el apoyo y asesoramiento de un equipo de especialistas en caso de reclamaciones por violación de datos, perjuicios por actos en medios o sanciones de protección de datos.
 
 ##
+
+![footer.](footer.png)
 
 # [BBVA]()  
 
