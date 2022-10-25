@@ -1,15 +1,5 @@
-# [BBVA](https://www.bbva.es/personas.html)  
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [PERSONAS](https://www.bbva.es/personas.html) &nbsp; &nbsp; &nbsp; [AUTÓNOMOS Y EMPRESAS](https://www.bbva.es/empresas.html)
-## 
 
 ![cabecera.](cabecera.png)
-
-![banner.](https://www.bbva.com/wp-content/uploads/2021/08/GettyImages-transferencias-internacionales-mapa-mundo-tierra-paises-economia-cib-finanzas-operaciones-1024x576.jpg)
-
-## <center>Tipos de malware y cómo puedes eliminarlos</center>
-
-
-##### <center>Descubre qué tipos de software malicioso pueden atacar tu dispositivo y cómo protegerlo de ellos.</center>
 
 &nbsp;
 
